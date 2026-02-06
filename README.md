@@ -80,7 +80,7 @@ Before starting the analysis, understanding the available data was a critical st
 The report is designed to support **Finance, Sales, Marketing, Supply Chain, and Executive** stakeholders by delivering **clear, actionable insights** that enable **faster decision-making**, **improved performance monitoring**, and **more effective strategic planning** across the organization.
 
 <!-- GIF showcasing all report views -->
-![Business Insights 360 – Report Views](Resources/new_project_gif.gif)
+![Business Insights 360 – Report Views](Resources/Project.gif)
 
 ### 🔍 Available Views
 - Finance View  
