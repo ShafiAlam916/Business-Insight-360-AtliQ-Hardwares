@@ -1,5 +1,13 @@
 # 📊 Business Insights 360
 
+---
+
+## 🎥 Presentation Video
+👉 **Watch the full project walkthrough here:**  
+[Presentation Video Link]([https://your-video-link-here](https://www.linkedin.com/posts/mdshafialam_powerbi-dataanalytics-businessanalytics-activity-7425383319539990528-hlL2?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFANRrUB8YOiQ7CrZlkNSWAytjyAKghfpAs))
+
+---
+
 ## 🚀 Project Overview
 This project focuses on building an **enterprise-level business analytics solution** to support **data-driven decision-making across global markets**. The goal was to centralize data from key business functions **Finance, Sales, Marketing, and Supply Chain** into a **single, transparent analytics layer**.
 
